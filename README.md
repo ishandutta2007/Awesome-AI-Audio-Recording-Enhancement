@@ -72,42 +72,42 @@ Market dynamics exhibit a **dual-tier structure**:
 
 Curated self-hostable libraries and deep learning architectures sorted in descending order by GitHub stargazers:
 
-1. ### 🎼 **[facebookresearch/demucs](https://github.com/facebookresearch/demucs)** [![GitHub Stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)
+1. ### 🎼 **[facebookresearch/demucs](https://github.com/facebookresearch/demucs)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)
    - **Focus:** Music source separation and vocal extraction via Hybrid Spectrogram and Waveform Domain U-Net.
    - **License:** MIT
    - **Highlights:** State-of-the-art isolation of vocals, drums, bass, and other stems. Ideal for isolating speech or dialogue tracks from heavily mixed audio prior to downstream enhancement.
 
-2. ### ⚡ **[xiph/rnnoise](https://github.com/xiph/rnnoise)** [![GitHub Stars](https://img.shields.io/github/stars/xiph/rnnoise?style=social&color=white)](https://github.com/xiph/rnnoise/stargazers)
+2. ### ⚡ **[xiph/rnnoise](https://github.com/xiph/rnnoise)** [![GitHub_Stars](https://img.shields.io/github/stars/xiph/rnnoise?style=social&color=white)](https://github.com/xiph/rnnoise/stargazers)
    - **Focus:** Recurrent neural network (RNN / GRU) based real-time audio noise suppression in C.
    - **License:** BSD-3-Clause
    - **Highlights:** Extreme computational efficiency with negligible latency (<10ms). Battle-tested in production VoIP, WebRTC conferencing, and embedded Linux/microcontroller devices.
 
-3. ### 🎛️ **[Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)** [![GitHub Stars](https://img.shields.io/github/stars/Rikorose/DeepFilterNet?style=social&color=white)](https://github.com/Rikorose/DeepFilterNet/stargazers)
+3. ### 🎛️ **[Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)** [![GitHub_Stars](https://img.shields.io/github/stars/Rikorose/DeepFilterNet?style=social&color=white)](https://github.com/Rikorose/DeepFilterNet/stargazers)
    - **Focus:** Low-complexity real-time speech enhancement and dereverberation using deep filtering in Rust and PyTorch.
    - **License:** MIT
    - **Highlights:** Causal multi-frame deep filtering standard for real-time speech processing. Supports standard CLI `deepFilter input.wav` and Python bindings with multi-platform CPU and CUDA acceleration.
 
-4. ### 🔊 **[resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance)** [![GitHub Stars](https://img.shields.io/github/stars/resemble-ai/resemble-enhance?style=social&color=white)](https://github.com/resemble-ai/resemble-enhance/stargazers)
+4. ### 🔊 **[resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance)** [![GitHub_Stars](https://img.shields.io/github/stars/resemble-ai/resemble-enhance?style=social&color=white)](https://github.com/resemble-ai/resemble-enhance/stargazers)
    - **Focus:** Deep learning speech denoising and high-frequency spectral speech restoration.
    - **License:** MIT
    - **Highlights:** Two-stage neural architecture separating background noise suppression from generative voice enhancement to recover muffled or low-sample-rate audio recordings.
 
-5. ### 🎧 **[facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)** [![GitHub Stars](https://img.shields.io/github/stars/facebookresearch/denoiser?style=social&color=white)](https://github.com/facebookresearch/denoiser/stargazers)
+5. ### 🎧 **[facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/denoiser?style=social&color=white)](https://github.com/facebookresearch/denoiser/stargazers)
    - **Focus:** Real-time speech enhancement in the raw waveform domain (Demucs-based causal architecture).
    - **License:** CC-BY-NC 4.0 / Research
    - **Highlights:** Operates directly on raw audio waveforms with encoder-decoder skip connections to cancel stationary and non-stationary noises with low latency on standard laptop CPUs.
 
-6. ### 🏆 **[microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)** [![GitHub Stars](https://img.shields.io/github/stars/microsoft/DNS-Challenge?style=social&color=white)](https://github.com/microsoft/DNS-Challenge/stargazers)
+6. ### 🏆 **[microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/DNS-Challenge?style=social&color=white)](https://github.com/microsoft/DNS-Challenge/stargazers)
    - **Focus:** Microsoft Deep Noise Suppression baseline models, perceptual audio quality metrics, and evaluation datasets.
    - **License:** CC-BY-4.0
    - **Highlights:** Benchmark dataset, ITU-T P.835 testing harnesses, and baseline neural models for state-of-the-art academic and industry noise suppression comparison.
 
-7. ### 🛠️ **[haoheliu/voicefixer](https://github.com/haoheliu/voicefixer)** [![GitHub Stars](https://img.shields.io/github/stars/haoheliu/voicefixer?style=social&color=white)](https://github.com/haoheliu/voicefixer/stargazers)
+7. ### 🛠️ **[haoheliu/voicefixer](https://github.com/haoheliu/voicefixer)** [![GitHub_Stars](https://img.shields.io/github/stars/haoheliu/voicefixer?style=social&color=white)](https://github.com/haoheliu/voicefixer/stargazers)
    - **Focus:** General speech restoration for degraded speech across noise, room reverb, distortion, and bandwidth limitation.
    - **License:** MIT
    - **Highlights:** Neural vocoder and resonator pipeline capable of reconstructing missing high-frequency harmonics and restoring historical archival recordings to 44.1kHz studio clarity.
 
-8. ### 🦀 **[lona-cn/anr](https://github.com/lona-cn/anr)** [![GitHub Stars](https://img.shields.io/github/stars/lona-cn/anr?style=social&color=white)](https://github.com/lona-cn/anr/stargazers)
+8. ### 🦀 **[lona-cn/anr](https://github.com/lona-cn/anr)** [![GitHub_Stars](https://img.shields.io/github/stars/lona-cn/anr?style=social&color=white)](https://github.com/lona-cn/anr/stargazers)
    - **Focus:** Lightweight Rust-based noise reduction library using DFN3 models with multi-backend compute shaders.
    - **License:** Apache-2.0
    - **Highlights:** Direct GPU execution using Vulkan, Direct3D 12, OpenGL ES, and wgpu compute shaders without requiring heavy Python or ONNX Runtime runtimes.
@@ -129,7 +129,7 @@ Curated self-hostable libraries and deep learning architectures sorted in descen
 Contributions are welcome! Please follow these guidelines:
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/audio-tool`).
-3. ✏️ Add your verified entry adhering to the markdown formatting standards (include official links, factual benchmarks, and star badges).
+3. ✏️ Add your verified entry adhering to the markdown formatting standards (include official links, factual benchmarks, and Stars_Badges).
 4. 🚀 Open a Pull Request detailing the model architecture or service characteristics.
 
 ---
