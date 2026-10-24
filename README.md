@@ -42,23 +42,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Podcast (Enhance Speech)](https://podcast.adobe.com/)** | AI-powered speech enhancement that removes noise and echo, making recordings sound studio-quality. | **Free** plan available. **Premium** plan available (pricing not confirmed in search results) . | **Free plan**: Audio only, one file at a time, up to **30 minutes and 500 MB per file**, **1 hour of enhancement per day**, 2 Studio project downloads per day (up to 30 min each) . |
-
-| **[Descript](https://www.descript.com/)** | All-in-one audio/video editor with AI features including Studio Sound, Overdub, and AI clip generation. | **Free**: $0. **Hobbyist**: from **$16/month** (annual) . | **Free plan**: **60 media minutes/month**, **100 one-time AI credits**, single seat, watermarked exports, limited Underlord AI . |
-
-| **[Riverside.fm](https://riverside.fm/)** | Remote recording platform with local capture per participant, Magic Audio enhancement, and AI transcription. | **Pro**: **$29/month** (or $24/month annual). **Grow**: **$39/month** ($34/month annual). **Webinar**: $99/month. **Business**: custom . | **Free plan**: **2 hours of separate-track recording (one-off, not monthly)**, 720p video, watermarked exports, unlimited single-track recording and video calls, basic editing tools . |
-
-| **[Auphonic](https://auphonic.com/)** | Automatic audio post-production with loudness normalization, noise reduction, and leveling. | Free for **2 hours/month**; paid plans scale with processing hours . | **Free**: **2 hours of processed audio per month** . |
-
-| **[Krisp](https://krisp.ai/)** | Real-time AI noise cancellation for calls and meetings, with transcription and AI notes. | **Free** tier available. Paid plans range from **$16/month to $30/month** (billed monthly) . | **Free plan**: **60 minutes/day** noise cancellation, unlimited transcription, 2 AI notes/day, 7-day history . |
-
-
+| Product | Description | Company Size (Revenue / Valuation) | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Podcast (Enhance Speech)](https://podcast.adobe.com/)** | AI-powered speech enhancement that removes noise and echo, making recordings sound studio-quality. | **~$21.5B+ ARR / ~$100B–$150B Market Cap** (Public: NASDAQ: ADBE) | Starts at **$19.99/month** (Adobe Firefly Pro / Podcast Premium tier) | **Free plan**: Audio only, one file at a time, up to **30 minutes and 500 MB per file**, **1 hour of enhancement per day**, 2 Studio project downloads per day (up to 30 min each). |
+| **[Descript](https://www.descript.com/)** | All-in-one audio/video editor with AI features including Studio Sound, Overdub, and AI clip generation. | **~$55M ARR / $550M Valuation** (Series C funded) | Hobbyist tier starts at **$16/seat/month** (billed annually) or **$19/month** (billed monthly) | **Free plan**: **60 media minutes/month**, **100 one-time AI credits**, 1 seat, 720p watermarked exports. |
+| **[Krisp](https://krisp.ai/)** | Real-time AI noise cancellation for calls and meetings, with transcription and AI notes. | **~$38M–$41M ARR / ~$70M–$100M+ Valuation** (Series A-1 funded) | Pro tier starts at **$8/month** (billed annually) or **$16/month** (billed monthly) | **Free plan**: **60 minutes/day** of noise cancellation, unlimited meeting transcriptions, 2 AI note summaries/day, 7-day history. |
+| **[Riverside.fm](https://riverside.fm/)** | Remote recording platform with local capture per participant, Magic Audio enhancement, and AI transcription. | **~$35M–$56M ARR / ~$200M–$450M Valuation** (Series C funded) | Pro tier starts at **$24/month** (billed annually) or **$29/month** (billed monthly) | **Free plan**: **2 hours of separate-track recording (one-time trial, not monthly)**, unlimited single-track recording, 720p watermarked exports. |
+| **[Auphonic](https://auphonic.com/)** | Automatic audio post-production with loudness normalization, noise reduction, and leveling. | **~$380K–$1M+ ARR** (Bootstrapped / Indie) | Recurring plans start at **$11/month** (for 9 hours/month; 20% discount on yearly billing) | **Free plan**: **2 hours of processed audio per month** (includes Auphonic audio jingle mark). |
 
 ## Open-Source GitHub Projects
 
